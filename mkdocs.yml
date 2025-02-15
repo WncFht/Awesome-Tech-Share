@@ -229,9 +229,12 @@ plugins:
       exclude:
         - index.md
 
-nav:
-  - Home:
-      - index.md
+not_in_nav: assets/template/template.md
 
+nav:
+  - Home: index.md
+  - CS课程:
+      - CS课程/index.md
+      - CS课程/C++.md
   - Tags:
       - Tags/index.md

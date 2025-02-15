@@ -1,5 +1,5 @@
 ---
-title: index
+title: CS 课程
 nostatistics: false
 comments: true
 ---

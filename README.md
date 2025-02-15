@@ -1,6 +1,6 @@
 # Awesome CS
 
-This is a repo for the collection of any awesome resources and reflections.
+This is a repo for the collection of any awesome resources and reflection.
 
 ## Install
 

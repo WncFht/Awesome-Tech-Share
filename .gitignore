@@ -22,3 +22,5 @@ Thumbs.db
 
 # 环境变量文件（如果你使用的话）
 .env
+
+.obsidian/

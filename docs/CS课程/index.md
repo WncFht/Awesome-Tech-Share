@@ -10,5 +10,5 @@ comments: true
 
 {{ BEGIN_TOC }}
 - "C++":
-    - "C++": C++.md
+    - "C++": C++
 {{ END_TOC }}

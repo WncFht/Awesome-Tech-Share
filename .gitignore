@@ -1,0 +1,24 @@
+site/
+
+blog_venv/
+venv/
+env/
+.venv/
+
+# Python 字节码
+__pycache__/
+*.py[cod]
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 编辑器/IDE 配置文件
+.vscode/
+.idea/
+
+# 日志文件
+*.log
+
+# 环境变量文件（如果你使用的话）
+.env

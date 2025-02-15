@@ -1,0 +1,237 @@
+site_name: Awesome CS
+site_url: https://WncFht.github.io/Awesome-CS/
+site_description: 收集整理各种计算机科学相关的知识，包括但不限于计算机基础、人工智能、机器人、工具等。
+site_author: wnc
+repo_name: Awesome-CS
+repo_url: https://github.com/WncFht/Awesome-CS/
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/git-alt
+    edit: material/pencil
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.action.view
+    - content.footnote.tooltips
+    - content.tabs.link
+    - header.autohide
+
+    # - navigation.tabs.sticky
+    # - navigation.sections
+
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.path
+
+    # - navigation.instant.prefetch
+    # - navigation.instant.preview
+    # - navigation.instant.progress
+    # - navigation.expand
+
+    - toc.follow
+
+    - search.highlight
+    - search.share
+    - search.suggest
+
+  font: false
+
+  # favicon: assets/images/avatar.png
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: follow system
+    - media: "(prefers-color-scheme: light)"
+      scheme: default # 日间模式
+      primary: white # 上方的
+      accent: indigo # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/brightness-7 # 图标
+        name: light mode # 鼠标悬浮提示
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate # 夜间模式
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: darkmode
+
+markdown_extensions:
+  # - abbr
+  - meta
+  - def_list
+  - attr_list
+  # - admonition
+  # - footnotes
+  - md_in_html
+  - sane_lists
+  - admonition
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # - pymdownx.caret
+  - pymdownx.critic
+  # - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  # - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  # - markdown.extensions.attr_list
+  - toc:
+      permalink: true
+      toc_depth: 3
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  #         format:
+  #           pymdownx.superfences.fence_code_format # 代码块高亮插件
+  - pymdownx.highlight: # 代码块高亮
+      anchor_linenums: true
+      linenums: true # 显示行号
+      auto_title: true # 显示编程语言名称
+      linenums_style: pymdownx-inline
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+  # - markdown.extensions.toc:
+  #     slugify:
+  #       !!python/object/apply:pymdownx.slugs.slugify { kwds: { case: lower } }
+  #     permalink: "\ue157"
+  # - pymdownx.magiclink:
+  #     repo_url_shorthand: true
+  #     user: WncFht
+  #     repo: WncFht.github.io
+  # - pymdownx.snippets:
+  #     auto_append:
+  #       - includes/abbreviations.md
+
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  #         format: !!python/name:pymdownx.superfences.fence_code_format
+
+validation:
+  nav:
+    omitted_files: info
+    not_found: warn
+    absolute_links: info
+  links:
+    not_found: ignore
+    absolute_links: ignore
+    unrecognized_links: ignore
+
+extra:
+  social:
+    - icon: /fontawesome/brands/qq
+      link: assets/images/qq.jpg
+      name: QQ
+
+extra_css:
+  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css
+  - https://cdn.tonycrane.cc/utils/katex.min.css
+  - https://cdn.tonycrane.cc/jbmono/jetbrainsmono.css
+  - https://cdn.tonycrane.cc/lxgw/lxgwscreen.css
+  - css/custom.css
+  - css/tasklist.css
+  - css/card.css
+  - css/flink.css
+  - css/extra.css
+  - css/fold_toc.css
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
+
+extra_javascript:
+  - js/katex.js
+  - js/toc.js
+  - js/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.tonycrane.cc/utils/katex.min.js
+  - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+
+  # katex
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js
+
+  # mathjax
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-chtml-full.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-svg-full.js
+
+plugins:
+  - bi_directional_links
+  # - ezlinks
+  - blogging:
+      locale: en
+      dirs:
+        - Blogs/posts
+      theme:
+        name: card
+      features:
+        tags:
+          index_page: tags/
+          insert: top
+  - search
+  - callouts
+  - glightbox:
+      width: 80%
+  - statistics:
+      words_per_minute: 200
+  - heti
+  # - include_dir_to_nav:
+  #     sort_file: true
+  #     sort_directory: true
+  - toc
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      js_files:
+        - js/katex.js
+        - js/mathjax.js
+        - js/toc.js
+      css_files:
+        - css/custom.css
+        - css/tasklist.css
+        - css/card.css
+        - css/flink.css
+        - css/extra.css
+        - css/fold_toc.css
+        - css/grid cards.css
+  # - obsidian_support 不知道什么原因构建速度很慢，暂时不用
+  # - rss
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Asia/Shanghai
+      enable_creation_date: true
+      exclude:
+        - index.md
+
+nav:
+  - Home:
+      - index.md
+
+  - Tags:
+      - Tags/index.md

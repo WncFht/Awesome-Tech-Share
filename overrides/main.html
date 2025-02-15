@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ super() }}
+{% if not page.meta.comments == false %}
+  {% include "partials/comments.html" %}
+{% endif %}
+{% endblock %}

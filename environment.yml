@@ -1,0 +1,21 @@
+name: mkdocs
+channels:
+  - defaults
+dependencies:
+  - python = 3.10
+  - pip
+  - pip:
+      - mkdocs
+      - mkdocs-material
+      - mkdocs-glightbox
+      - mkdocs-statistics-plugin
+      - mkdocs-heti-plugin
+      # mkdocs-include-dir-to-nav
+      - mkdocs-git-revision-date-localized-plugin
+      - rich # for mkdocs-toc-plugin
+      - mkdocs-blogging-plugin
+      - mkdocs-callouts
+      - mkdocs-changelog-plugin
+      - mkdocs-minify-plugin
+      - mkdocs-video
+      - mkdocs-bi-directional-links

@@ -236,5 +236,11 @@ nav:
   - CS课程:
       - CS课程/index.md
       - CS课程/C++.md
+  - 数学课程:
+      - 数学课程/数学课程.md
+  - 总结:
+      - 总结/总结.md
+  - 其他:
+      - 其他/暂时难以整理的.md
   - Tags:
       - Tags/index.md

@@ -2,7 +2,7 @@
 
 This is a repo for the collection of any awesome resources and reflection.
 
-## Install
+## Installation and Setup
 
 ```shell
 conda create -f environment.yml
@@ -16,4 +16,8 @@ pip install ./mkdocs-statistics-plugin
 rm -rf mkdocs-statistics-plugin
 
 pip cache purge
+```
+
+```shell
+mkdocs serve
 ```

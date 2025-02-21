@@ -1,12 +1,15 @@
 ---
 title: AI
 tags:
-  - none
+  - AI
+  - RL
+  - DL
 nostatistics: false
 comments: true
 ---
 
 # AI
+
 - [动手学深度学习笔记：CNN、RNN、CV、NLP](https://silkyfinish.github.io/tags/Deep-Learning/)
 - [Diffusion入门资源整理(持续更新ing) - 嘉然今天赶DDL](https://liaojunchen.github.io/myblog/diffusion/)
 - [概率图模型&机器学习 -- 精确推断方法 -- 变量消去(Variable Elimination)和信念传播(Belief Propagation) - 伊犁纯流莱 - 博客园](https://www.cnblogs.com/tshaaa/p/18620764)
@@ -17,6 +20,12 @@ comments: true
 - [AI科研光速入门教程 · 语雀](https://www.yuque.com/lingxia-lqeic/sge7wl/lsxg4u4nguzlr5p3?singleDoc#)
 - [CMU10414-hw0 - PAC's Blog](https://pactheman123.github.io/2025/01/25/CMU10414-hw0/)
 
+## RL
+
+- [王树森深度强化学习学习笔记L1](https://zhuanlan.zhihu.com/p/25473882076)
+- [王树森深度强化学习学习笔记L2](https://zhuanlan.zhihu.com/p/25475148015)
+
 ## 论文
+
 - [【论文阅读】TOWARDS THE GENERALIZATION OF CONTRASTIVE SELF-SUPERVISED LEARNING（人工智能之自监督对比学习的泛化性理论）\_towards the generalization of image quality assess-CSDN博客](https://blog.csdn.net/ModestCoder_/article/details/144904849)
 - [用于决策的世界模型 -- 论文 World Models (2018) & PlaNet (2019) 讲解 - 伊犁纯流莱 - 博客园](https://www.cnblogs.com/tshaaa/p/18670731)

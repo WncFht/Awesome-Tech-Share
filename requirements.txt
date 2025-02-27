@@ -8,3 +8,4 @@ rich # for mkdocs-toc-plugin
 mkdocs-callouts
 mkdocs-minify-plugin
 mkdocs-video
+mkdocs-blogging-plugin

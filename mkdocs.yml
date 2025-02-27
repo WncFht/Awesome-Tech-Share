@@ -147,6 +147,12 @@ plugins:
   # - include_dir_to_nav:
   #     sort_file: true
   #     sort_directory: true
+  - blogging:
+      locale: en
+      features:
+        tags:
+          index_page: tags/
+          insert: top
   - minify:
       minify_html: true
       minify_js: true
@@ -165,8 +171,6 @@ plugins:
       enable_creation_date: true
       exclude:
         - index.md
-
-not_in_nav: assets/template/template.md
 
 nav:
   - Home: index.md

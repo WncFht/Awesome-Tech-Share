@@ -6,9 +6,5 @@ comments: true
 
 # CS 课程
 
-这里是一些 CS 的课程。
-
-{{ BEGIN_TOC }}
-- "C++":
-    - "C++": C++
-{{ END_TOC }}
+> [!abstract]
+> 这里记录一些 CS 的课程笔记、心得分享等。

@@ -1,49 +1,17 @@
-/*
- * Styles for the flink list and its items.
- * 
- * .flink-list:
- *   - Enables auto overflow and centers text.
- *   - Adds padding around the list.
- * 
- * .flink-list a:
- *   - Sets the default link color.
- * 
- * [data-md-color-scheme="slate"] .flink-list a:
- *   - Changes link color for the "slate" color scheme.
- * 
- * .flink-list-item:
- *   - Positions items relatively and floats them to the left.
- *   - Adds margin, width, height, and border-radius.
- *   - Sets line-height and applies transform and transition effects.
- *   - Changes background color on hover.
- * 
- * .flink-item-icon:
- *   - Floats the icon to the left and adds margin.
- *   - Sets width, height, and border-radius.
- * 
- * .flink-item-name:
- *   - Adds padding and sets height.
- *   - Makes the font bold and increases font size.
- * 
- * .flink-item-desc:
- *   - Adds padding and sets height.
- *   - Sets font size.
- * 
- * Media Queries:
- *   - Adjusts the width of .flink-list-item based on screen width.
- *   - Breakpoints at 1310px, 1219px, 1027px, 959px, and 692px.
- */
 .flink-list {
   overflow: auto;
   padding: 10px 10px 0;
   text-align: center;
 }
+
 .flink-list a {
   color: #4a4a4a;
 }
+
 [data-md-color-scheme="slate"] .flink-list a {
-  color: rgba(255,255,255,0.7);
+  color: rgba(255, 255, 255, 0.7);
 }
+
 .flink-list-item {
   position: relative;
   float: left;
@@ -57,6 +25,7 @@
   transform: translateZ(0);
   transition: 0.25s;
 }
+
 .flink-item-icon {
   float: left;
   overflow: hidden;
@@ -65,20 +34,26 @@
   height: 60px;
   border-radius: 35px;
 }
+
 .flink-item-name {
   padding: 19px 10px 0 0;
   height: 40px;
   font-weight: bold;
   font-size: 1.3em;
 }
+
 .flink-item-desc {
   padding: 13px 10px 16px 0;
   height: 50px;
   font-size: 0.93em;
 }
+
 .flink-list-item:hover {
-  background-color: rgba(68,138,255,.1);
+  background-color: rgba(68, 138, 255, .1);
+  transform: scale(1.1);
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.12), 0 0 6px 0 rgba(0, 0, 0, 0.04);
 }
+
 .flink-list-item {
   width: calc(50% - 15px) !important;
 }
@@ -88,21 +63,25 @@
     width: calc(100% - 15px) !important;
   }
 }
+
 @media screen and (max-width: 1219px) {
   .flink-list-item {
     width: calc(50% - 15px) !important;
   }
 }
+
 @media screen and (max-width: 1027px) {
   .flink-list-item {
     width: calc(100% - 15px) !important;
   }
 }
+
 @media screen and (max-width: 959px) {
   .flink-list-item {
     width: calc(50% - 15px) !important;
   }
 }
+
 @media screen and (max-width: 692px) {
   .flink-list-item {
     width: calc(100% - 15px) !important;

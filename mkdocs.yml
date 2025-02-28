@@ -185,17 +185,26 @@ nav:
       - CS课程/电路理论.md
       - CS课程/算法.md
       - CS课程/软件分析.md
+      - CS课程/CS236.md
   - 数学课程:
       - 数学课程/数学课程.md
   - 后端:
       - 后端/后端.md
+  - 嵌入式:
+      - 嵌入式/单片机.md
   - 算法:
       - 算法/具身智能/具身智能.md
       - 算法/多模态/多模态.md
       - 算法/RAG/RAG.md
       - 算法/大模型/LLM.md
+      - 算法/Agent/Agent.md
   - 系统:
       - 系统/系统.md
+      - 系统/mlsys.md
+  - 编译器:
+      - 编译器/compiler.md
+  - 科研:
+      - 科研/research.md
   - 工具:
       - 工具/工具.md
   - 总结:
@@ -206,3 +215,4 @@ nav:
       - 杂谈/杂谈.md
   - Tags:
       - Tags/index.md
+  - 贡献者: links/index.md

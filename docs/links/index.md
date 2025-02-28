@@ -22,11 +22,11 @@ icon: /octicons/link-24
 </div>
 
 <div class="flink-list-item">
-    <a href="https://tendourisu.github.io/blog/" title="Tendourisu" target="_blank">
+    <a href="https://tendourisu.github.io/" title="Tendourisu" target="_blank">
         <div class="flink-item-icon">
-            <img src="https://raw.githubusercontent.com/Tendourisu/images/master/Tendourisuloop.jpg" alt="Tendourisu">
+            <img src="https://raw.githubusercontent.com/Tendourisu/images/master/aris.png" alt="Tendourisu">
         </div>
-        <div class="flink-item-name heti-skip">Tendourisu</div>
+        <div class="flink-item-name">Tendourisu</div>
         <div class="flink-item-desc">え　わたし？</div>
     </a>
 </div>
@@ -177,6 +177,16 @@ icon: /octicons/link-24
             <img src="../assets/images/zarathu.png" alt="zarathu">
         </div>
         <div class="flink-item-name heti-skip">Zarathu</div>
+        <div class="flink-item-desc"></div>
+    </a>
+</div>
+
+<div class="flink-list-item">
+    <a href="https://hugo0713.com" title="Hugo's Cyber Heritage" target="_blank">
+        <div class="flink-item-icon">
+            <img src="../assets/images/hugo.png" alt="Tendourisu">
+        </div>
+        <div class="flink-item-name">Hugo's Cyber Heritage</div>
         <div class="flink-item-desc"></div>
     </a>
 </div>

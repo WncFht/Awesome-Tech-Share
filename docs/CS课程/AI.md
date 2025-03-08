@@ -22,18 +22,32 @@ comments: true
 - [变分推断(VI)、随机梯度变分推断(SGVI/SGVB)、变分自编码器(VAE)串讲 - 伊犁纯流莱 - 博客园](https://www.cnblogs.com/tshaaa/p/18651129)
 - [AI科研光速入门教程 · 语雀](https://www.yuque.com/lingxia-lqeic/sge7wl/lsxg4u4nguzlr5p3?singleDoc#)
 - [CMU10414-hw0 - PAC's Blog](https://pactheman123.github.io/2025/01/25/CMU10414-hw0/)
+- [multimodal (vision-language) 的话可以看看](https://arxiv.org/abs/2403.20312v1)
+- [Hugging Face](https://huggingface.co/learn/agents-course/unit0/introduction)
+
+- [DeepSeek+LoRA+FastAPI开发人员如何微调大模型并暴露接口给后端调用](https://www.bilibili.com/video/BV1R6P7eVEtd/?share_source=copy_web&vd_source=790a5ca2f47c821c3a8b320e22e891fb)
 
 ## RL
 
-- [王树森深度强化学习学习笔记L1](https://zhuanlan.zhihu.com/p/25473882076)
-- [王树森深度强化学习学习笔记L2](https://zhuanlan.zhihu.com/p/25475148015)
-- [王树森深度强化学习学习笔记L3](https://zhuanlan.zhihu.com/p/25683335463)
+- [王树森深度强化学习 L1](https://zhuanlan.zhihu.com/p/25473882076)
+- [王树森深度强化学习 L2](https://zhuanlan.zhihu.com/p/25475148015)
+- [王树森深度强化学习 L3](https://zhuanlan.zhihu.com/p/25683335463)
 - [王树森 深度强化学习 L4 - Actor-Critic方法](https://zhuanlan.zhihu.com/p/25862988930)
 - [王树森 深度强化学习 L5 - AlphaGo](https://zhuanlan.zhihu.com/p/26116186765)
 - [王树森 深度强化学习 L6 - Monte Carlo](https://zhuanlan.zhihu.com/p/26285085579)
 - [王树森 深度强化学习 L7 - 均匀随机排列与Fisher-Yates算法](https://zhuanlan.zhihu.com/p/26587884804)
 - [王树森 深度强化学习 L8，9，10 - TD-learning](https://zhuanlan.zhihu.com/p/26665926622)
 - [王树森 深度强化学习 L10，11，12 - 价值学习高级技巧](https://zhuanlan.zhihu.com/p/26778035602)
+
+- [王树森 深度强化学习 L13，14，15，16 - 策略梯度中的baseline](https://zhuanlan.zhihu.com/p/27346770175)
+- [王树森 深度强化学习 L17,18,19 - 连续控制](https://zhuanlan.zhihu.com/p/27707399283)
+- [王树森 深度强化学习 L20 - 置信域策略优化](https://zhuanlan.zhihu.com/p/27810136378)
+
+- [王树森 深度强化学习 L21，22 - 多智能体强化学习（完结篇）](https://zhuanlan.zhihu.com/p/27834639897)
+- [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](  https://github.com/jakegrigsby/deep_control)
+
+- [Teaching Robots to Listen and Think Harder](https://www.physicalintelligence.company/research/hirobot)
+
 
 ## Pytorch
 

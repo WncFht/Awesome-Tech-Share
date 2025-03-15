@@ -18,5 +18,5 @@ comments: true
 
 ## CS106B
 
-- [CS106B笔记 \| Thwords twbeats](https://alicecooo.github.io/2025/02/04/CS106B%E7%AC%94%E8%AE%B0/)
-- [课程简介 \| MY blog](https://www.li-zheng.icu/markdown/OpenCourse/CS106B/CS106B_InFo.html)
+- [CS106B笔记 - Thwords twbeats](https://alicecooo.github.io/2025/02/04/CS106B%E7%AC%94%E8%AE%B0/)
+- [课程简介  - MY blog](https://www.li-zheng.icu/markdown/OpenCourse/CS106B/CS106B_InFo.html)

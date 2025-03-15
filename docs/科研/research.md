@@ -6,9 +6,9 @@ nostatistics: false
 comments: true
 ---
 
-## 方法论
-
-- [最近关于科研工作的一些思考 - 东一伊蕾娜](https://zhuanlan.zhihu.com/p/26579631480?utm_psn=1878138759716950017)
+## 论文阅读
+ - [Foundational Models for 3D Point Clouds A Survey and Outlook - wnc 的咖啡馆](https://wncfht.github.io/notes/Blogs/posts/Foundational%20Models%20for%203D%20Point%20Clouds%20A%20Survey%20and%20Outlook/
+ )
 
 ## 项目/Paper
 

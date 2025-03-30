@@ -7,6 +7,7 @@ comments: true
 ---
 
 ## 论文阅读
+- [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/)
 - [Foundational Models for 3D Point Clouds A Survey and Outlook - wnc 的咖啡馆](https://wncfht.github.io/notes/Blogs/posts/Foundational%20Models%20for%203D%20Point%20Clouds%20A%20Survey%20and%20Outlook/)
 
 - [【论文阅读】TOWARDS THE GENERALIZATION OF CONTRASTIVE SELF-SUPERVISED LEARNING（人工智能之自监督对比学习的泛化性理论）\_towards the generalization of image quality assess - CSDN博客](https://blog.csdn.net/ModestCoder_/article/details/144904849)

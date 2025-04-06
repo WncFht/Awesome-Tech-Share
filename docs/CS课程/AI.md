@@ -9,6 +9,8 @@ comments: true
 ---
 
 # AI
+- [CS 285 策略梯度和HW2](https://zhuanlan.zhihu.com/p/1891065022836343795)
+- [CS 285 学习 - justopit](https://zhuanlan.zhihu.com/p/1890333346141287156)
 - [DDAO](https://github.com/BytedTsinghua-SIA/DAPO)
 - [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision课程笔记](https://silkyfinish.github.io/2025/02/25/CV%20Note/)
 - [SpatialLM-Llama-1B](https://huggingface.co/manycore-research/SpatialLM-Llama-1B)

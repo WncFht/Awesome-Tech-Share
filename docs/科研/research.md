@@ -7,6 +7,7 @@ comments: true
 ---
 
 ## 论文阅读
+- [Coaxial 论文笔记 服务器cpu上用cxl type3设备代替ddr-dram的设计 - Exce1sior](https://zhuanlan.zhihu.com/p/1888850042107978402?utm_psn=1889852364510445569)
 - [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/)
 - [Foundational Models for 3D Point Clouds A Survey and Outlook - wnc 的咖啡馆](https://wncfht.github.io/notes/Blogs/posts/Foundational%20Models%20for%203D%20Point%20Clouds%20A%20Survey%20and%20Outlook/)
 

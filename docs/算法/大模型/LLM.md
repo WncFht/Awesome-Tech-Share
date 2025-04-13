@@ -9,7 +9,8 @@ comments: true
 ---
 
 # LLM
-
+- [大模型理论基础](https://datawhalechina.github.io/so-large-lm/#/)
+- [动手学大模型](https://www.zhihu.com/column/c_1456193767213043713)
 - [大语言模型概念](https://blog.csdn.net/qq_63432403/article/details/145883782)
 - [最小熵原理（六）：词向量的维度应该怎么选择？ - 科学空间\|Scientific Spaces](https://kexue.fm/archives/7695)
 - [Github上一个面向开发者的大模型手册](https://datawhalechina.github.io/llm-cookbook/#/)

@@ -9,6 +9,9 @@ comments: true
 ---
 
 # LLM
+
+- [tiny-llm](https://github.com/skyzh/tiny-llm)
+- [自己手撕复现的deepseek稀疏注意力nsa](https://zhuanlan.zhihu.com/p/1897730423045473813)
 - [大模型理论基础](https://datawhalechina.github.io/so-large-lm/#/)
 - [动手学大模型](https://www.zhihu.com/column/c_1456193767213043713)
 - [大语言模型概念](https://blog.csdn.net/qq_63432403/article/details/145883782)

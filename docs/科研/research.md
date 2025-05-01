@@ -7,6 +7,10 @@ comments: true
 ---
 
 ## 论文阅读
+
+- [LRU-K 论文阅读笔记](https://zhuanlan.zhihu.com/p/1898469067981066716)
+- [多任务论文阅读 M3GAT - kluster的文章 - 知乎](https://zhuanlan.zhihu.com/p/1898154047925655393)
+- [【论文阅读】非局部神经网络浅读（简介+代码）- SuXiaofei's Blog](https://xiaosuqaq.github.io/2025/04/15/%E9%9D%9E%E5%B1%80%E9%83%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html)
 - [Coaxial 论文笔记 服务器cpu上用cxl type3设备代替ddr-dram的设计 - Exce1sior](https://zhuanlan.zhihu.com/p/1888850042107978402?utm_psn=1889852364510445569)
 - [Reward Hacking in Reinforcement Learning](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/)
 - [Foundational Models for 3D Point Clouds A Survey and Outlook - wnc 的咖啡馆](https://wncfht.github.io/notes/Blogs/posts/Foundational%20Models%20for%203D%20Point%20Clouds%20A%20Survey%20and%20Outlook/)
@@ -23,3 +27,7 @@ Tiamat AI联合NUS、bytedance等单位发布PhotoDoodle，专为艺术创作设
 TD;DR: PhotoDoodle是一个图像编辑框架，可以通过少量设计师给定的“before-after”图片，定制专属风格的图像编辑器。图像编辑也迎来了自己的LoRA moment。
 
 ---
+
+## 其他
+
+- [怎么熟练使用服务器并避免给实验室添麻烦呢？ - Seasoning的回答 - 知乎](https://www.zhihu.com/question/506241986/answer/3457669268)

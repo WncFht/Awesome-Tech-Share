@@ -186,21 +186,29 @@ nav:
       - CS课程/算法.md
       - CS课程/软件分析.md
       - CS课程/CS236.md
-  - 数学课程:
-      - 数学课程/数学课程.md
+      - CS课程/CS285.md
+      - CS课程/CS231n.md
+      - CS课程/湖科大计网.md
+  - 数学:
+      - 数学/数学课程.md
+      - 数学/博客.md
   - 后端:
       - 后端/后端.md
   - 嵌入式:
       - 嵌入式/单片机.md
   - 算法:
+      - 算法/基础/basic.md
       - 算法/具身智能/具身智能.md
       - 算法/多模态/多模态.md
       - 算法/RAG/RAG.md
       - 算法/大模型/LLM.md
       - 算法/Agent/Agent.md
+      - 算法/AIGC/AIGC.md
   - 系统:
       - 系统/系统.md
       - 系统/mlsys.md
+  - 图形学:
+      - 图形学/graphics.md
   - 编译器:
       - 编译器/compiler.md
   - 科研:

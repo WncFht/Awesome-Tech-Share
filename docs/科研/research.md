@@ -7,7 +7,7 @@ comments: true
 ---
 
 ## 论文阅读
-
+- [多模态平衡学习 On-the-fly Modulation for  Balanced Multimodal Learning 论文阅读总结 - kluster]( https://zhuanlan.zhihu.com/p/1902321276116276570)
 - [LRU-K 论文阅读笔记](https://zhuanlan.zhihu.com/p/1898469067981066716)
 - [多任务论文阅读 M3GAT - kluster的文章 - 知乎](https://zhuanlan.zhihu.com/p/1898154047925655393)
 - [【论文阅读】非局部神经网络浅读（简介+代码）- SuXiaofei's Blog](https://xiaosuqaq.github.io/2025/04/15/%E9%9D%9E%E5%B1%80%E9%83%A8%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html)
@@ -28,6 +28,3 @@ TD;DR: PhotoDoodle是一个图像编辑框架，可以通过少量设计师给�
 
 ---
 
-## 其他
-
-- [怎么熟练使用服务器并避免给实验室添麻烦呢？ - Seasoning的回答 - 知乎](https://www.zhihu.com/question/506241986/answer/3457669268)

@@ -9,14 +9,12 @@ comments: true
 ---
 
 # AI
-- [CS 285 策略梯度和HW2](https://zhuanlan.zhihu.com/p/1891065022836343795)
-- [CS 285 学习 - justopit](https://zhuanlan.zhihu.com/p/1890333346141287156)
+
 - [DDAO](https://github.com/BytedTsinghua-SIA/DAPO)
 - [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision课程笔记](https://silkyfinish.github.io/2025/02/25/CV%20Note/)
 - [SpatialLM-Llama-1B](https://huggingface.co/manycore-research/SpatialLM-Llama-1B)
 - [人工智能基础学习 - pd_ch's blog](https://pd-ch.github.io/The-way-to-Artificial-Intelligence/)
 - [Policy-based Methods to DRL](https://mountainous-lung-882.notion.site/Policy-based-Methods-to-DRL-1b1c6e44bc4f8027816df796353cf20c?pvs=74)
-- [LLM的快思考与慢思考路线之MCTS - haotian的文章](https://zhuanlan.zhihu.com/p/659230417)
 - [Ng-Machine learning 课程笔记 - amaranth的叶栈漫谈](https://auzers.github.io/notes/ai/ml/wedml/)
 - [群友整理的 AI 高阶课程列表（更新中）](https://cloud.seatable.io/dtable/external-links/custom/awesome-cs-courses/)
 - [动手学深度学习笔记：CNN、RNN、CV、NLP](https://silkyfinish.github.io/tags/Deep-Learning/)

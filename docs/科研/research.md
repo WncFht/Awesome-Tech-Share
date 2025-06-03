@@ -7,6 +7,9 @@ comments: true
 ---
 
 ## 论文阅读
+- [RAG + 文档解析调研](https://zhuanlan.zhihu.com/p/1910305219025301842)
+- [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://aisystemcodesign.github.io/papers/Llama3-ISCA25.pdf)
+- [Generalized Language Models 技术性综述](https://lilianweng.github.io/posts/2019-01-31-lm/)
 
 - [RAG + 文档解析调研](https://zhuanlan.zhihu.com/p/1910305219025301842)
 - [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://aisystemcodesign.github.io/papers/Llama3-ISCA25.pdf)

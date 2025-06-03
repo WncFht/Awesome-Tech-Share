@@ -8,6 +8,9 @@ comments: true
 
 ## 论文阅读
 
+- [RAG + 文档解析调研](https://zhuanlan.zhihu.com/p/1910305219025301842)
+- [Scaling Llama 3 Training with Efficient Parallelism Strategies](https://aisystemcodesign.github.io/papers/Llama3-ISCA25.pdf)
+- [Generalized Language Models 技术性综述](https://lilianweng.github.io/posts/2019-01-31-lm/)
 - [多模态平衡学习 On-the-fly Modulation for  Balanced Multimodal Learning 论文阅读总结 - kluster]( https://zhuanlan.zhihu.com/p/1902321276116276570)
 - [LRU-K 论文阅读笔记](https://zhuanlan.zhihu.com/p/1898469067981066716)
 - [多任务论文阅读 M3GAT - kluster的文章 - 知乎](https://zhuanlan.zhihu.com/p/1898154047925655393)

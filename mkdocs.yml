@@ -174,26 +174,20 @@ plugins:
 
 nav:
   - Home: index.md
-  - CS课程:
-      - CS课程/index.md
-      - CS课程/C++.md
-      - CS课程/6.S081.md
-      - CS课程/AI.md
-      - CS课程/CS61A.md
-      - CS课程/CS61C.md
-      - CS课程/CSAPP.md
-      - CS课程/电路理论.md
-      - CS课程/算法.md
-      - CS课程/软件分析.md
-      - CS课程/CS236.md
-      - CS课程/CS285.md
-      - CS课程/CS231n.md
-      - CS课程/计网.md
+  - CS:
+      - CS/index.md
+      - CS/编程.md
+      - CS/操作系统.md
+      - CS/AI.md
+      - CS/电路理论.md
+      - CS/算法.md
+      - CS/软件分析.md
+      - CS/计算机网络.md
   - 数学:
       - 数学/数学课程.md
       - 数学/杂谈.md
-  - 后端:
-      - 后端/后端.md
+  - 前后端:
+      - 前后端/前后端.md
   - 嵌入式:
       - 嵌入式/单片机.md
   - 算法:
@@ -204,9 +198,9 @@ nav:
       - 算法/大模型/LLM.md
       - 算法/Agent/Agent.md
       - 算法/AIGC/AIGC.md
-  - 系统:
-      - 系统/系统.md
-      - 系统/mlsys.md
+  - 资料:
+      - 资料/资料.md
+      - 资料/project.md
   - 图形学:
       - 图形学/graphics.md
   - 编译器:
@@ -220,7 +214,12 @@ nav:
   - 其他:
       - 其他/暂时难以整理的.md
   - 杂谈:
-      - 杂谈/杂谈.md
+      - 杂谈/其他.md
+      - 杂谈/人生经验.md
+      - 杂谈/科研学习.md
+      - 杂谈/读书分享.md
+      - 杂谈/技术观点.md
+      - 杂谈/工作就业.md
   - Tags:
       - Tags/index.md
   - 贡献者: links/index.md

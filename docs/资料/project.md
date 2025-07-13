@@ -5,6 +5,11 @@ tags:
 nostatistics: false
 comments: true
 ---
+- [Owner avatar anylinuxfs](https://github.com/nohajc/anylinuxfs)
+- [VIT-DBNet](https://github.com/zmlxzyh/VIT-DBNet/tree/main)
+- [ASVR: Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better](https://github.com/AlenjandroWang/ASVR)
+- [paperlists](https://github.com/Papercopilot/paperlists)
+- [npcypy](https://zhuanlan.zhihu.com/p/1925978613557204522)
 - [DDAO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO)
 - [SpatialLM-Llama-1B](https://huggingface.co/manycore-research/SpatialLM-Llama-1B)
 - [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](  https://github.com/jakegrigsby/deep_control)

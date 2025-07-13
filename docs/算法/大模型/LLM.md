@@ -9,7 +9,7 @@ comments: true
 ---
 
 # LLM
-
+- [LLM训练-pretrain - ybq的文章 - 知乎](https://zhuanlan.zhihu.com/p/718354385)
 - [tiny-llm](https://github.com/skyzh/tiny-llm)
 - [自己手撕复现的deepseek稀疏注意力nsa](https://zhuanlan.zhihu.com/p/1897730423045473813)
 - [大模型理论基础](https://datawhalechina.github.io/so-large-lm/#/)

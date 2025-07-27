@@ -8,6 +8,7 @@ comments: true
 ---
 
 # RAG
+- [高级 RAG 技术学习笔记 - aneasystone's blog](https://www.aneasystone.com/archives/2024/06/advanced-rag-notes.html)
 - [RAG入门学习笔记](https://zhuanlan.zhihu.com/p/1920883487814194041)
 - [详解 CacheBlend：RAG 场景 KV 复用，打破前缀相同的限制](https://zhuanlan.zhihu.com/p/7781800255)
 - [从零开始的RAG](https://www.bilibili.com/video/BV1dm41127jc/?spm_id_from=333.1387.collection.video_card.click&vd_source=8eeed36c8368d0ab0bb576c12209518e)

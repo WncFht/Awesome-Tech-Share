@@ -5,6 +5,8 @@ tags:
 nostatistics: false
 comments: true
 ---
+- [Blog Post The Different Types of Software Testing](https://about.codecov.io/blog/the-different-types-of-software-testing/)
+- [“一生一芯”](https://fa45epzd9c7.feishu.cn/docx/Jdl7d1ZWtoLD6ZxXDdcc7Reonsc)
 - [Owner avatar anylinuxfs](https://github.com/nohajc/anylinuxfs)
 - [VIT-DBNet](https://github.com/zmlxzyh/VIT-DBNet/tree/main)
 - [ASVR: Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better](https://github.com/AlenjandroWang/ASVR)

@@ -7,6 +7,8 @@ comments: true
 ---
 
 ## 论文阅读
+- [Diffusion Policy: 基于扩散模型的机器人策略学习](https://dpthink.vercel.app/posts/paper-reading/diffusion-policy)
+- [冷启动的信号启示：致敬“The Bitter Lesson”，耐心、观察与信号收集的智慧 - justopit](https://zhuanlan.zhihu.com/p/1930388425569204110?share_code=39boTyRoPheX&utm_psn=1930393797847647141)
 - [如何复现一篇 SIGGRAPH 论文](https://th3charlie.github.io/posts/reimplement-a-siggraph-paper#Top)
 - [multimodal (vision-language) 的话可以看看](https://arxiv.org/abs/2403.20312v1)
 - [Compilers 隐式构造能提高 Sample Efficiency](https://arxiv.org/abs/2412.06769)

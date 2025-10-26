@@ -23,6 +23,7 @@ comments: true
 - [cs231n前面深度学习基础知识总结](https://juejin.cn/post/7499306613884469289)
 
 ### 其他
+- [动手学深度学习](https://www.notion.so/29016f705b8d802d8662c5f561d9008c)
 - [动手学深度学习笔记：CNN、RNN、CV、NLP](https://silkyfinish.github.io/tags/Deep-Learning/) 
 - [深度学习知识合集 · 语雀](https://www.yuque.com/lingxia-lqeic/uaa03d/irgpqga1xvaat6fr?singleDoc#)
 - [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision课程笔记](https://silkyfinish.github.io/2025/02/25/CV%20Note/)

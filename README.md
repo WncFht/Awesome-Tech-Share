@@ -9,7 +9,7 @@ conda create -f environment.yml
 
 git clone https://github.com/KinnariyaMamaTanha/mkdocs-statistics-plugin
 pip install ./mkdocs-statistics-plugin
-rm -rf mkdocs-statistics-plugin
+rm -rf mkdocs-statistics-plugin  (Linux)
 
 pip cache purge
 ```

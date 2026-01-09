@@ -20,7 +20,7 @@ Welcome to Awesome Tech Share! 🎉
 </h1>
 
 <span style="display: block; text-align: center; font-size: 18px;">
-[:octicons-link-16: Contributors](./links/index.md) / [:octicons-info-16: About Us](https://zhuanlan.zhihu.com/p/12775079036) / [:material-chart-line: Statistics](javascript:toggle_statistics();)
+[:octicons-link-16: Contributors](./links/index.md) / [:octicons-info-16: About Us](https://zhuanlan.zhihu.com/p/12775079036) / [:material-chart-line: Statistics] / [:material-network: 知识图谱](./javascripts/graph.html)(javascript:toggle_statistics();)
 </span>
 
 <div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; opacity: 0; margin-left: auto; margin-right: 0; font-size: 110%">

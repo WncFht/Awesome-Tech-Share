@@ -65,11 +65,15 @@ comments: true
 
 
 # ML
-
 - [Ng-Machine learning 课程笔记 - amaranth的叶栈漫谈](https://auzers.github.io/notes/ai/ml/wedml/)
 - [概率图模型&机器学习 -- 精确推断方法 -- 变量消去(Variable Elimination)和信念传播(Belief Propagation) - 伊犁纯流莱 - 博客园](https://www.cnblogs.com/tshaaa/p/18620764)
-
 - [Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- [ML system 入坑指南](https://zhuanlan.zhihu.com/p/608318764这个看看？我也没入门，只是看到了这个感觉挺好的)
+- [Machine Learning Systems课程](https://mlsyscourse.org/schedule)
+- [Machine Learninng](https://arxiv.org/abs/2405.16444)
+- [机器学习工程](https://wncfht.github.io/ml-engineering/)
+
+
 
 # DGM
 

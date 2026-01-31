@@ -50,6 +50,7 @@ comments: true
 - [王树森 深度强化学习 L21，22 - 多智能体强化学习（完结篇）](https://zhuanlan.zhihu.com/p/27834639897)
 
 ## CS285
+- [Laurie's Site](https://laurie-hxf.xyz/tags/cs285)
 - [CS 285 MBRL理论分析和HW4 - justopit](https://zhuanlan.zhihu.com/p/1903929233920730839)
 - [CS 285 Q-Learning 和 HW3](https://zhuanlan.zhihu.com/p/1892960334219818501/)
 - [CS 285 策略梯度和HW2](https://zhuanlan.zhihu.com/p/1891065022836343795)

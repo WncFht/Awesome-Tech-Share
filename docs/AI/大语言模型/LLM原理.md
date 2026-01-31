@@ -9,6 +9,9 @@ comments: true
 ---
 
 # LLM
+- [漫谈 LLM 解码策略：采样策略（贪心解码、随机采样、Top-K 采样、Top-P 采样、核采样）和搜索策略（ Beam Search） - 姚远的文章 - 知乎](https://zhuanlan.zhihu.com/p/29031912458 )
+- [Pytorch从零手敲大模型，架构到训练全教程]( https://www.bilibili.com/video/BV1T2k6BaEeC/?share_source=copy_web&vd_source=d2f64ba8bb19f3aad3b1e9cc75836e7f)
+
 - [LLM训练-pretrain - ybq的文章 - 知乎](https://zhuanlan.zhihu.com/p/718354385)
 - [tiny-llm](https://github.com/skyzh/tiny-llm)
 - [自己手撕复现的deepseek稀疏注意力nsa](https://zhuanlan.zhihu.com/p/1897730423045473813)

@@ -38,12 +38,13 @@ comments: true
 - [2024 年终总结 记录了一些作为小白ai入门以来看过的一些课的感受供参考 -  SilkyFinish](https://silkyfinish.github.io/2024/12/31/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [2024 年终总结 -  Soulter's Blog](https://blog.soulter.top/posts/2024-yearly-record.html)
 
-## 未来规划
 
+
+## 其他
+- [科研与学习日志](https://lxm-lc.github.io/2027/01/01/research-and-learning-log.html#%E6%80%BB%E7%BB%93)
+- [第一次科研总结]( https://jysanne.github.io/2026/01/21/%E5%B0%8F%E7%BB%93/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A7%91%E7%A0%94%E6%80%BB%E7%BB%93/)
 - [非常不成熟的未来规划 - 不想掉码](https://zhuanlan.zhihu.com/p/18130484918?utm_psn=1862315671976824832)
-
-## 其他反思
-
+- [学习进度分享](http://xhslink.com/o/6Bp2OIRRVGd )
 - [关于个人摆烂期的总结和反思 - 澪妄妄想成神](https://forsakendelusion.online/diary/meditations/1273/)
 - [信息 - wnc 的咖啡馆](https://wncfht.github.io/notes/Blogs/posts/24-12-30/)
 - [个人总结：关于焦虑缓解（短期与长期）- 游行寺夜子](https://zhuanlan.zhihu.com/p/13928499696)

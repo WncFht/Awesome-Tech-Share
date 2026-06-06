@@ -23,6 +23,7 @@ comments: true
 - [cs231n前面深度学习基础知识总结](https://juejin.cn/post/7499306613884469289)
 
 ## 其他
+- [《Attention Is All You Need阅读笔记》](https://zhuanlan.zhihu.com/p/2033958300908261630?share_code=Qv0oOxSGpvo2&utm_psn=2033959259810025989)
 - [动手学深度学习](https://www.notion.so/29016f705b8d802d8662c5f561d9008c)
 - [动手学深度学习笔记：CNN、RNN、CV、NLP](https://silkyfinish.github.io/tags/Deep-Learning/) 
 - [深度学习知识合集 · 语雀](https://www.yuque.com/lingxia-lqeic/uaa03d/irgpqga1xvaat6fr?singleDoc#)

@@ -5,8 +5,8 @@ dependencies:
   - python=3.10  
   - pip
   - pip:
-      - mkdocs
-      - mkdocs-material
+      - mkdocs==1.6.1
+      - mkdocs-material==9.7.7
       - mkdocs-glightbox
       - mkdocs-statistics-plugin
       - mkdocs-git-revision-date-localized-plugin

@@ -4,7 +4,7 @@ nostatistics: true
 icon: /octicons/link-24
 ---
 
-# Contributers 🥰
+# Contributors 🥰
 
 !!! abstract
     这里列出了（一部分）本项目的贡献者，无先后顺序。

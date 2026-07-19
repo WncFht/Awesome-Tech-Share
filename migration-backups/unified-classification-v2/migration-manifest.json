@@ -1,0 +1,1110 @@
+{
+  "migration_id": "unified-classification-v2",
+  "source_digest": "4cfd2b29bbe99fccc1aa51246d933d7c87f1bc3ee01428276af9df86f1c468f6",
+  "records_integrated": 153,
+  "temporary_pages_removed": [
+    "docs/AI/资源补充.md",
+    "docs/CS/资源补充.md",
+    "docs/学习成长/成长与职业/资源补充.md",
+    "docs/学习成长/资源补充.md",
+    "docs/开发/资源补充.md"
+  ],
+  "target_pages": [
+    "docs/AI/AI工程与系统.md",
+    "docs/AI/AI应用/AIGC内容生成.md",
+    "docs/AI/AI应用/具身智能.md",
+    "docs/AI/AI应用/多模态技术.md",
+    "docs/AI/AI理论基础.md",
+    "docs/AI/大语言模型/AI-Agent智能体.md",
+    "docs/AI/大语言模型/LLM原理.md",
+    "docs/AI/大语言模型/RAG检索增强.md",
+    "docs/CS/系统原理/体系结构.md",
+    "docs/CS/系统原理/分布式.md",
+    "docs/CS/系统原理/操作系统.md",
+    "docs/CS/系统原理/编译原理.md",
+    "docs/CS/系统原理/计算机网络.md",
+    "docs/CS/编程/算法.md",
+    "docs/CS/编程/编程.md",
+    "docs/学习成长/学习资源.md",
+    "docs/学习成长/职业发展/工作就业.md",
+    "docs/开发/前后端.md",
+    "docs/开发/安全工程.md",
+    "docs/开发/计算机图形学.md",
+    "docs/开发/项目.md"
+  ],
+  "applied": true,
+  "applied_at": "2026-07-19T14:12:34.190364+08:00",
+  "ledger": [
+    {
+      "title": "从 GPU 硬件机制看 GEMM 性能调优",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "2026 企业级AI编程实践手册",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "AI 原生工程",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "MLE_Interview_Notes",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Oak Ridge National Laboratory",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "GPU编程课程",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "CUDA 编程教程汇总",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "动手学深度学习d2l+pytorch+CUDA本地环境配置过程记录 - 秒差距的文章 - 知乎",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "PyTorch 快速入门 - kluster",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Learn Pytorch - 一个 Pytorch 入门教程",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Tensorboard 浅尝 - Kinnari's Site",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "ArgusBot",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Open Cowork",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "看到一篇写openclaw很不错的blog",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Goole浏览器视频工具",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Bili2text",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "去ai味的写作类skills",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "用ai写的歌曲下载器",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "ChatAI",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Monica AI 助手",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Askmanyai AI 助手",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "QQbot 群消息爬取与分析工具 -wnc 的咖啡馆",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "一个基于ai的 hacker news 中文播客项目",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "智能实验运行守护与分析工具｜AI-Powered Experiment Guardian",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "AI自动写周报",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "Nano-Banana Pro 论文绘图最全教程发布",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "使用 Gemini（又称 Nano Banana 和 Nano Banana Pro）生成图片",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "cuda-toolkit",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "AI工程与系统",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "人形机器人运动控制Know-How",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "π*0.6: a VLA that Learns from Experience",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "人形机器人+深度学习——Humanoid Robot Learning入门",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "将一个新的机器人模型导入最新版isaacLab进行训练（以unitree H1_2为例）",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "具身智能：一场需要谦逊与耐心的科学远征",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "具身智能需要从ImageNet做起吗？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "QQ群发帖打卡机器人 - 佚名",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "具身智能技术指南 Embodied-AI-Guide",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "LeRobot - Build Your Own SO-101 Robot!",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "具身智能与机器人",
+      "final_page": "docs/AI/AI应用/具身智能.md",
+      "final_heading": "具身智能"
+    },
+    {
+      "title": "大模型应用开发 -上下文工程与运行空间实践指南",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "DeepSeek-V4",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "Training LLMs on GPU Clusters",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "预训练语言模型(PLM, Pretraining Language Model)",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "大模型核心概念科普：Token、上下文长度、最大输出，一次讲透",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "大模型Blog",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "Hugging Face -AI Agents Course",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "Qwen模型微调之SFT",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "万字长文图解Qwen2.5-VL实现细节",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "腾讯发布Agent最新BenchMark&可控多智能体数据生成框架：Multi-Mission Tool Bench (一个多任务的工具调用BenchMark)",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "我们需要结构化的 Agentic Coding 吗？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "AGENTS.md 真的能帮助编码智能体吗？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "大模型的Loss Landscape是什么样的？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "对RoPE理解挺好的",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "泼OpenAI冷水：LangChain官方阐述为何不走可视化Agent Builder路线",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "一个半月高强度 Claude Code 使用后感受",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "我是如何使用 Claude Code 和 Codex",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "在大模型应用中，如何提升RAG（检索增强生成）的能力？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/RAG检索增强.md",
+      "final_heading": "RAG"
+    },
+    {
+      "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "LLM的快思考与慢思考路线之MCTS - haotian的文章",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "用Agent评测思路管理AI Coding —— 31万行代码AI重构的实践",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "Claude API Docs: Prompt Engineering Guide",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "一个半月高强度 Claude Code 使用后感受",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "按照苏神类似的思路推理Transformer中的Softmax Attention为什么要除以√d_k？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "AI大模型",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "最近读了一遍 nano-vllm 的源码，做了些笔记，欢迎群友补充~",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "大模型核心概念科普：Token、上下文长度、最大输出，一次讲透",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "2024年LLM实习岗面经（一名大四学生的碎碎念）",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "Codex 每次启动都卡在 Reconnecting？大概率不是账号问题，而是 WebSocket 没走通",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "DeepSeek+LoRA+FastAPI开发人员如何微调大模型并暴露接口给后端调用",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "【Github Copilot】远程连接无法使用Claude的解决方法 - Rrmeazh的文章",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "Codex 配置大杂烩,涵盖MCP安装、调用规则、自动模式解决方案等【缝合系列】",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "ZCF - Claude Code & Codex 一键配置工具（含CCR配置、BMad和spec工作流、CCometixLine集成）",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "AgentRSS: 智能RSS阅读与问答系统 - wnc 的咖啡馆",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "如何动手写一个简单的 agent",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "Pocket Flow 一个极简主义LLM框架",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "AutoSci - Read, think, experiment, write, evolve — the AI research agent with memory that compounds across every project.",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "GenericAgent",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "everything-claude-code",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "OpenAPI spec 输入 → N 种 Agent 可消费格式输出",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "SpatialLM-Llama-1B",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "open-source agent on SWE-Bench Verified by combining Claude 3.7 and O1",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "CAMEL x MCP: Making AI Agents Accessible to All Tools",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "operative.sh web-eval-agent MCP Server",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "大语言模型与智能体",
+      "final_page": "docs/AI/大语言模型/AI-Agent智能体.md",
+      "final_heading": "教程"
+    },
+    {
+      "title": "蘑菇书EasyRL",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "强化学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "强化学习（RL）"
+    },
+    {
+      "title": "paperlists",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "强化学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "强化学习（RL）"
+    },
+    {
+      "title": "DDAO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "强化学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "强化学习（RL）"
+    },
+    {
+      "title": "Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "强化学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "强化学习（RL）"
+    },
+    {
+      "title": "ReaderLM-v2",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "强化学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "强化学习（RL）"
+    },
+    {
+      "title": "我模拟了一万个 Polymarket 赛季：只有 3 种策略存活了下来",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "机器学习基础",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "机器学习（ML）"
+    },
+    {
+      "title": "王树森的推荐系统- Kinnari's Blog",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "机器学习基础",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "机器学习（ML）"
+    },
+    {
+      "title": "Geoffrey Hinton带你拆解 AI“理解” 的本质 | IASEAI 2025",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "机器学习基础",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "机器学习（ML）"
+    },
+    {
+      "title": "最近meta推出v-jepa 2分析了一下JEPA",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "机器学习基础",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "机器学习（ML）"
+    },
+    {
+      "title": "AB实验中样本选择偏差DEMO分析",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "机器学习基础",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "机器学习（ML）"
+    },
+    {
+      "title": "Birdclef中几个模型转换成 openvino格式",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "深度学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "深度学习（DL）"
+    },
+    {
+      "title": "一本挺好的介绍神经网络和深度学习的书",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "深度学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "深度学习（DL）"
+    },
+    {
+      "title": "深度学习为啥不用二阶牛顿寻优？",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "深度学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "深度学习（DL）"
+    },
+    {
+      "title": "log_softmax与softmax的区别在哪里？ - 以往的月的回答 - 知乎",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "深度学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "深度学习（DL）"
+    },
+    {
+      "title": "神经网络可解释性综述",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "深度学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "深度学习（DL）"
+    },
+    {
+      "title": "深度学习模型编译框架TVM概述",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "深度学习",
+      "final_page": "docs/AI/AI理论基础.md",
+      "final_heading": "深度学习（DL）"
+    },
+    {
+      "title": "RAE",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/AIGC内容生成.md",
+      "final_heading": "AIGC"
+    },
+    {
+      "title": "开始学生成模型，AR，VAE，GAN 的笔记",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/AIGC内容生成.md",
+      "final_heading": "AIGC"
+    },
+    {
+      "title": "周报。MIT 6.S184 P2: ODE/SDE生成模型的训练推导",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/AIGC内容生成.md",
+      "final_heading": "AIGC"
+    },
+    {
+      "title": "变分推断(VI)、随机梯度变分推断(SGVI/SGVB)、变分自编码器(VAE)串讲 - 伊犁纯流莱 - 博客园",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/AIGC内容生成.md",
+      "final_heading": "AIGC"
+    },
+    {
+      "title": "Diffusion入门资源整理(持续更新ing) - 嘉然今天赶DDL",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/AIGC内容生成.md",
+      "final_heading": "AIGC"
+    },
+    {
+      "title": "扩散模型入门——个人学习路线+优质博客资料",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/AIGC内容生成.md",
+      "final_heading": "AIGC"
+    },
+    {
+      "title": "ASVR: Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better",
+      "temporary_page": "docs/AI/资源补充.md",
+      "temporary_section": "生成式与多模态",
+      "final_page": "docs/AI/AI应用/多模态技术.md",
+      "final_heading": "多模态"
+    },
+    {
+      "title": "An Algorithm of Generalization in Positive Supercompilation",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "数据库与编译",
+      "final_page": "docs/CS/系统原理/编译原理.md",
+      "final_heading": "资料收集"
+    },
+    {
+      "title": "io_uring for High-Performance DBMSs: When and How to Use It",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "系统与体系结构",
+      "final_page": "docs/CS/系统原理/操作系统.md",
+      "final_heading": "SJTU-IPADS"
+    },
+    {
+      "title": "Intel® Manual Chapter 2 | Intel手册第二章中文翻译：系统架构概览",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "系统与体系结构",
+      "final_page": "docs/CS/系统原理/体系结构.md",
+      "final_heading": "CSAPP"
+    },
+    {
+      "title": "Intel® Manual Chapter 7 | Intel手册第七章中文翻译：中断和异常处理",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "系统与体系结构",
+      "final_page": "docs/CS/系统原理/操作系统.md",
+      "final_heading": "SJTU-IPADS"
+    },
+    {
+      "title": "尝试阐释CPU工作原理 - zileizi",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "系统与体系结构",
+      "final_page": "docs/CS/系统原理/体系结构.md",
+      "final_heading": "CSAPP"
+    },
+    {
+      "title": "2025年操作系统设计与实现研讨会（OSDI）有哪些值得关注的文章？",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "系统与体系结构",
+      "final_page": "docs/CS/系统原理/操作系统.md",
+      "final_heading": "SJTU-IPADS"
+    },
+    {
+      "title": "从共识算法开谈 - 硬盘性能的最大几个误解",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "系统与体系结构",
+      "final_page": "docs/CS/系统原理/分布式.md",
+      "final_heading": "Mit6.5840"
+    },
+    {
+      "title": "自己学习Blelloch Scan的实现的笔记，感觉这个算法理解起来比较反直觉，但是很精巧，是很多并行算法的Building Block",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/算法.md",
+      "final_heading": "算法"
+    },
+    {
+      "title": "算法八股文常见问题",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/算法.md",
+      "final_heading": "算法"
+    },
+    {
+      "title": "算法岗手撕代码",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/算法.md",
+      "final_heading": "算法"
+    },
+    {
+      "title": "函数式编程",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "函数式编程入门教程",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "Rust训练营-一阶段笔记",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "清华的计算机系科协在搞暑期培训",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "如何看待Anthropic用纯AI实现的CCC编译器可编译Linux? - 圆角骑士魔理沙的回答 - 知乎",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/系统原理/编译原理.md",
+      "final_heading": "资料收集"
+    },
+    {
+      "title": "世界上有哪些代码量很少，但很牛逼很经典的算法或项目案例？",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/算法.md",
+      "final_heading": "算法"
+    },
+    {
+      "title": "c++ STL为什么不提供双向vector？",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "2025年了 Rust前景如何?",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "关于Rust的一点小故事",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "针对js的优化方法做一个生成的js适合优化的new typescript",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "可以在编译器自动实现并行化解释/编译吗？ - 圆角骑士魔理沙的回答",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/系统原理/编译原理.md",
+      "final_heading": "资料收集"
+    },
+    {
+      "title": "在考虑到 GC 的 STW 情况下，C# 是否依旧能比手动管理内存（C++/Rust）快？",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "C语言并不是底层语言",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "编程与算法",
+      "final_page": "docs/CS/编程/编程.md",
+      "final_heading": "C++"
+    },
+    {
+      "title": "课程推荐 Advanced Natural Language Processing",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/AI/大语言模型/LLM原理.md",
+      "final_heading": "LLM"
+    },
+    {
+      "title": "WSL2 的 2.0 更新彻底解决网络问题 - hez2010的文章 - 知乎",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/CS/系统原理/计算机网络.md",
+      "final_heading": "计算机网络"
+    },
+    {
+      "title": "Build your own Redis",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/开发/项目.md",
+      "final_heading": "项目"
+    },
+    {
+      "title": "IPADS两篇论文入选VLDB 2025：构建面向分布式架构应用的多数据库事务系统; 查询重写引擎落地华为GaussDB",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/CS/系统原理/分布式.md",
+      "final_heading": "Mit6.5840"
+    },
+    {
+      "title": "AI Native ：重塑从 0 到 1 的生产力法则与实战复盘",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/AI/AI工程与系统.md",
+      "final_heading": "AI 工程与系统"
+    },
+    {
+      "title": "为客户端应用(Web/Native)构建低成本、高扩展性的聚合登录架构(完整实现 + 官方文档)",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/开发/前后端.md",
+      "final_heading": "后端"
+    },
+    {
+      "title": "介绍NAT穿透原理的文章",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/CS/系统原理/计算机网络.md",
+      "final_heading": "计算机网络"
+    },
+    {
+      "title": "通俗地讲，Netty 能做什么?",
+      "temporary_page": "docs/CS/资源补充.md",
+      "temporary_section": "网络与分布式",
+      "final_page": "docs/CS/系统原理/计算机网络.md",
+      "final_heading": "计算机网络"
+    },
+    {
+      "title": "工资计算器",
+      "temporary_page": "docs/学习成长/成长与职业/资源补充.md",
+      "temporary_section": "职业发展",
+      "final_page": "docs/学习成长/职业发展/工作就业.md",
+      "final_heading": "工作就业"
+    },
+    {
+      "title": "如果cs phd的工作是学界的自嗨，这类phd在业界没有对口,那他们的5年工作真的有意义吗？ - 圆角骑士魔理沙的回答 - 知乎",
+      "temporary_page": "docs/学习成长/成长与职业/资源补充.md",
+      "temporary_section": "职业发展",
+      "final_page": "docs/学习成长/职业发展/工作就业.md",
+      "final_heading": "工作就业"
+    },
+    {
+      "title": "程序员为啥突然会变成这么辣鸡的一个行业？",
+      "temporary_page": "docs/学习成长/成长与职业/资源补充.md",
+      "temporary_section": "职业发展",
+      "final_page": "docs/学习成长/职业发展/工作就业.md",
+      "final_heading": "工作就业"
+    },
+    {
+      "title": "英语学习网站",
+      "temporary_page": "docs/学习成长/资源补充.md",
+      "temporary_section": "课程与学习资源",
+      "final_page": "docs/学习成长/学习资源.md",
+      "final_heading": "学习记录"
+    },
+    {
+      "title": "OSS 直传：如何构建一套安全高效的文件上传/访问方案",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "Web与后端",
+      "final_page": "docs/开发/前后端.md",
+      "final_heading": "后端"
+    },
+    {
+      "title": "常用设计模式汇总",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "Web与后端",
+      "final_page": "docs/开发/前后端.md",
+      "final_heading": "后端"
+    },
+    {
+      "title": "周一（划掉）周二更新，Linux 迟迟难产的持久化变更日志 API",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "Web与后端",
+      "final_page": "docs/CS/系统原理/操作系统.md",
+      "final_heading": "SJTU-IPADS"
+    },
+    {
+      "title": "OSS 直传：如何构建一套安全高效的文件上传/访问方案",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "Web与后端",
+      "final_page": "docs/开发/前后端.md",
+      "final_heading": "后端"
+    },
+    {
+      "title": "Nerf工作原理",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "图形学与可视化",
+      "final_page": "docs/开发/计算机图形学.md",
+      "final_heading": "图形学"
+    },
+    {
+      "title": "How to build a BVH – Part 1: Basics",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "图形学与可视化",
+      "final_page": "docs/开发/计算机图形学.md",
+      "final_heading": "图形学"
+    },
+    {
+      "title": "读AFL++的文档总结",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "安全工程",
+      "final_page": "docs/开发/安全工程.md",
+      "final_heading": "安全工程"
+    },
+    {
+      "title": "Security Engineering 课程",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "安全工程",
+      "final_page": "docs/开发/安全工程.md",
+      "final_heading": "安全工程"
+    },
+    {
+      "title": "安全运营之路",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "安全工程",
+      "final_page": "docs/开发/安全工程.md",
+      "final_heading": "安全工程"
+    },
+    {
+      "title": "0g官方docs合约漏洞",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "安全工程",
+      "final_page": "docs/开发/安全工程.md",
+      "final_heading": "安全工程"
+    },
+    {
+      "title": "Polymarket的套利bot为什么能work",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "开源项目与工程实践",
+      "final_page": "docs/开发/项目.md",
+      "final_heading": "项目"
+    },
+    {
+      "title": "The Architecture of Open Source Applications",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "开源项目与工程实践",
+      "final_page": "docs/开发/项目.md",
+      "final_heading": "项目"
+    },
+    {
+      "title": "从零开始学架构",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "开源项目与工程实践",
+      "final_page": "docs/开发/项目.md",
+      "final_heading": "项目"
+    },
+    {
+      "title": "开发一个业务逻辑复杂的系统，应该怎么样设计才能使项目的扩展性更好？ - 圆角骑士魔理沙的回答",
+      "temporary_page": "docs/开发/资源补充.md",
+      "temporary_section": "开源项目与工程实践",
+      "final_page": "docs/开发/项目.md",
+      "final_heading": "项目"
+    }
+  ]
+}

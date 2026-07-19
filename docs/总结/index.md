@@ -22,7 +22,7 @@ comments: true
 - [2025-01 Summary of January - DeepforThink's Blog](https://deepforthink.github.io/2025/01/31/25%E5%B9%B41%E6%9C%88%E6%80%BB%E7%BB%93/)
 
 ## 学期总结
-- [2025-2026 总结了一下自己大二的生活，准备开始寒假的学习](https://zhuanlan.zhihu.com/p/1997701753668403777 )
+- [2025-2026 总结了一下自己大二的生活，准备开始寒假的学习](https://zhuanlan.zhihu.com/p/1997701753668403777)
 - [2024-2025 暑期总结](http://yumoni.top/archives/25nian-shu-qi-zong-jie)
 - [2024-2025 大一下总结 - 织](https://alicecooo.github.io/2025/08/23/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%80%BB%E7%BB%93/)
 - [2024-2025 期末总结 - espier](https://zhuanlan.zhihu.com/p/1920606903718896310)
@@ -46,7 +46,7 @@ comments: true
 - [科研与学习日志](https://lxm-lc.github.io/2027/01/01/research-and-learning-log.html#%E6%80%BB%E7%BB%93)
 - [第一次科研总结]( https://jysanne.github.io/2026/01/21/%E5%B0%8F%E7%BB%93/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%A7%91%E7%A0%94%E6%80%BB%E7%BB%93/)
 - [非常不成熟的未来规划 - 不想掉码](https://zhuanlan.zhihu.com/p/18130484918?utm_psn=1862315671976824832)
-- [学习进度分享](http://xhslink.com/o/6Bp2OIRRVGd )
+- [学习进度分享](http://xhslink.com/o/6Bp2OIRRVGd)
 - [关于个人摆烂期的总结和反思 - 澪妄妄想成神](https://forsakendelusion.online/diary/meditations/1273/)
 - [信息 - wnc 的咖啡馆](https://wncfht.github.io/notes/Blogs/posts/24-12-30/)
 - [个人总结：关于焦虑缓解（短期与长期）- 游行寺夜子](https://zhuanlan.zhihu.com/p/13928499696)

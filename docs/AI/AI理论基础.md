@@ -7,15 +7,21 @@ nostatistics: false
 comments: true
 ---
 
-# RL
+# 强化学习（RL）
 
 - [Reward Hacking in Reinforcement Learning - Lil'Log](https://lilianweng.github.io/posts/2024-11-28-reward-hacking/)
 
 - [Teaching Robots to Listen and Think Harder](https://www.physicalintelligence.company/research/hirobot)
 
+## 相关资料
 
+- [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl/#/) <!-- migrated-from: docs/学习成长/学习资源.md:48; record-id: 50c2316b4ab8a560 -->
+- [paperlists](https://github.com/Papercopilot/paperlists) <!-- migrated-from: docs/开发/项目.md:31; record-id: fc0d930a9b6f7a1d | 待人工确认: accessible; record-id: fc0d930a9b6f7a1d -->
+- [DDAO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO) <!-- migrated-from: docs/开发/项目.md:33; record-id: 21bdeb578f6a3ff9 -->
+- [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](https://github.com/jakegrigsby/deep_control) <!-- migrated-from: docs/开发/项目.md:35; record-id: 69887381d1d5137e -->
+- [ReaderLM-v2](https://huggingface.co/jinaai/ReaderLM-v2) <!-- migrated-from: docs/开发/项目.md:37; record-id: e30fe894f75309a0 -->
 
-# DL
+# 深度学习（DL）
 
 ## CS231n
 - [CS231n part 1 - Ecank的文章 - 知乎](https://zhuanlan.zhihu.com/p/1897396972987590156)
@@ -30,9 +36,16 @@ comments: true
 - [UMich EECS 498-007 / 598-005: Deep Learning for Computer Vision课程笔记](https://silkyfinish.github.io/2025/02/25/CV%20Note/)
 - [CMU DLsys 作业实现](https://zhuanlan.zhihu.com/p/1901650779112204215)
 
+## 相关资料
 
+- [Birdclef中几个模型转换成 openvino格式](https://zhuanlan.zhihu.com/p/1911157667168223494) <!-- migrated-from: docs/学习成长/学习资源.md:29; record-id: 1e0f7507c28c30b4 | 待人工确认: access_restricted; record-id: 1e0f7507c28c30b4 -->
+- [一本挺好的介绍神经网络和深度学习的书](https://github.com/nndl/nndl.github.io) <!-- migrated-from: docs/学习成长/学习资源.md:43; record-id: e25e66ce39c07428 | 待人工确认: accessible; record-id: e25e66ce39c07428 -->
+- [深度学习为啥不用二阶牛顿寻优？](https://www.zhihu.com/question/1972776588379723619/answer/1994569156629132508) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:14; record-id: ce7c41fc667fef1b | 待人工确认: access_restricted; record-id: ce7c41fc667fef1b -->
+- [log_softmax与softmax的区别在哪里？ - 以往的月的回答 - 知乎](https://www.zhihu.com/question/358069078/answer/1998060735520085015) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:16; record-id: cd133a263ef47edc | 待人工确认: access_restricted; record-id: cd133a263ef47edc -->
+- [神经网络可解释性综述](https://yzhang-gh.github.io/notes/ml/nn-interpretability.html) <!-- migrated-from: docs/学习成长/技术思考/科研学习.md:32; record-id: 74414c2e8409c0de -->
+- [深度学习模型编译框架TVM概述](https://zhuanlan.zhihu.com/p/353660224?share_code=uTIfzrpKMqn9&utm_psn=1901703895547376596) <!-- migrated-from: docs/开发/项目.md:47; record-id: 25ec4e98a81c417f | 待人工确认: access_restricted; record-id: 25ec4e98a81c417f -->
 
-# DRL
+# 深度强化学习（DRL）
 
 ## 王树森
 - [王树森 深度强化学习 L1](https://zhuanlan.zhihu.com/p/25473882076)
@@ -65,18 +78,23 @@ comments: true
 - [OpenAI DRL](https://spinningup.openai.com/en/latest/user/introduction.html)
 
 
-
-# ML
+# 机器学习（ML）
 - [Ng-Machine learning 课程笔记 - amaranth的叶栈漫谈](https://auzers.github.io/notes/ai/ml/wedml/)
 - [概率图模型&机器学习 -- 精确推断方法 -- 变量消去(Variable Elimination)和信念传播(Belief Propagation) - 伊犁纯流莱 - 博客园](https://www.cnblogs.com/tshaaa/p/18620764)
 - [Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [ML system 入坑指南](https://zhuanlan.zhihu.com/p/608318764这个看看？我也没入门，只是看到了这个感觉挺好的)
 - [Machine Learning Systems课程](https://mlsyscourse.org/schedule)
-- [Machine Learninng](https://arxiv.org/abs/2405.16444)
+- [CacheBlend：面向 RAG 的缓存知识融合与大模型推理加速](https://arxiv.org/abs/2405.16444) — 论文提出 CacheBlend，通过复用知识缓存加速检索增强生成场景中的大语言模型推理。 <!-- 待人工确认: accessible; record-id: d6a1d4d4fd7dc5f8 -->
 - [机器学习工程](https://wncfht.github.io/ml-engineering/)
 
+## 相关资料
 
+- [我模拟了一万个 Polymarket 赛季：只有 3 种策略存活了下来](https://zhuanlan.zhihu.com/p/2019364930437006931) <!-- migrated-from: docs/学习成长/学习资源.md:13; record-id: 7f3a469983e2a82d | 待人工确认: access_restricted; record-id: 7f3a469983e2a82d -->
+- [王树森的推荐系统- Kinnari's Blog](https://kinnari-blog.vercel.app/posts/recsys/1-intro/) <!-- migrated-from: docs/学习成长/学习资源.md:25; record-id: e16e67aaf88c44f0 | 待人工确认: not_found; record-id: e16e67aaf88c44f0 -->
+- [Geoffrey Hinton带你拆解 AI“理解” 的本质 | IASEAI 2025](https://www.bilibili.com/video/BV12p1WBREp9/?share_source=copy_web&vd_source=82201ecb079b12ddf3fa696675c13851) <!-- migrated-from: docs/学习成长/学习资源.md:49; record-id: 367c5a9d5c16f9ba -->
+- [最近meta推出v-jepa 2分析了一下JEPA](https://zhuanlan.zhihu.com/p/1922388407109267533) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:38; record-id: 1f39fd9c0806222e | 待人工确认: access_restricted; record-id: 1f39fd9c0806222e -->
+- [AB实验中样本选择偏差DEMO分析](https://zhuanlan.zhihu.com/p/1915702618493293649?share_code=1oQ0UnqsdflRF&utm_psn=1916139864375689490) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:42; record-id: e7c379709017bfe9 | 待人工确认: access_restricted; record-id: e7c379709017bfe9 -->
 
-# DGM
+# 深度生成模型（DGM）
 
 - [CS236深度生成模型 Lec8的刷课总结/刷课笔记 - normalizing flow 流模型](https://www.cnblogs.com/tshaaa/p/18734925)

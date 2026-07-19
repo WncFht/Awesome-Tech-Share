@@ -1,5 +1,5 @@
-mkdocs
-mkdocs-material
+mkdocs==1.6.1
+mkdocs-material==9.7.7
 mkdocs-glightbox
 mkdocs-statistics-plugin
 # mkdocs-include-dir-to-nav

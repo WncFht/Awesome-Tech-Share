@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "fixes": [
+    {"source_path": "docs/AI/AI理论基础.md", "source_line": 75, "suggested_title": "CacheBlend：面向 RAG 的缓存知识融合与大模型推理加速", "suggested_description": "论文提出 CacheBlend，通过复用知识缓存加速检索增强生成场景中的大语言模型推理。", "reason": "原标题拼写错误且与 arXiv 2405.16444 实际论文主题不一致；标题与摘要页已核验。", "confidence": "high"},
+    {"source_path": "docs/学习成长/科研记录.md", "source_line": 11, "suggested_title": "DouZero+：基于对手建模和教练引导学习改进斗地主 AI", "suggested_description": "论文在 DouZero 基础上加入对手建模和教练引导学习，以改进斗地主智能体训练。", "reason": "原记录缺少左方括号，且把说明性长句误作标题；arXiv 2204.02558 标题与摘要已核验。", "confidence": "high", "syntax_fix": true},
+    {"source_path": "docs/学习成长/学习资源.md", "source_line": 16, "suggested_title": "The Ultra-Scale Playbook: Training LLMs on GPU Clusters", "suggested_description": "", "reason": "原记录被错误换行并缺少完整 Markdown 链接结构；按链接页面名称恢复完整标题。", "confidence": "high", "syntax_fix": true},
+    {"source_path": "docs/开发/开发工具.md", "source_line": 166, "suggested_title": "氛围编程时代！", "suggested_description": "", "reason": "原记录缺少 Markdown 链接左方括号；页面受访问限制，保留标题并标记人工确认。", "confidence": "medium", "syntax_fix": true, "manual_confirmation": true},
+    {"source_path": "docs/开发/开发工具.md", "source_line": 52, "suggested_title": "Obsidian 的配置：开箱即用", "suggested_description": "", "reason": "原 URL 使用中文右括号造成语法异常，并被误解析出一个右括号简介；GitHub 仓库目标已核验。", "confidence": "high", "syntax_fix": true},
+    {"source_path": "docs/CS/数学基础/数学杂项.md", "source_line": 13, "suggested_title": "群数独 | AlumKal's Blog", "suggested_description": "", "reason": "链接后的作者文本属于页面标题而非简介；实际页面标题已核验。", "confidence": "high"},
+    {"source_path": "docs/AI/算法与实现.md", "source_line": 15, "suggested_title": "NLP 总结", "suggested_description": "", "reason": "原标题“强化学习”与页面实际标题“NLP总结”不一致，并与同文件第 10 行重复。", "confidence": "high", "duplicate_of": "docs/AI/算法与实现.md:10"},
+    {"source_path": "docs/AI/算法与实现.md", "source_line": 13, "suggested_title": "Vanilla RNN", "suggested_description": "", "reason": "原标题“LSTM”与页面实际标题“Vanilla RNN”不一致，并与同文件第 12 行重复。", "confidence": "high", "duplicate_of": "docs/AI/算法与实现.md:12"},
+    {"source_path": "docs/AI/AI应用/具身智能.md", "source_line": 15, "suggested_title": "具身智能技术指南 Embodied-AI-Guide", "suggested_description": "面向具身智能初学者的中文知识库与资料索引，涵盖操作实践、算法、软件基础设施、控制和硬件等主题。", "reason": "GitHub 项目标题、README 与内容范围已核验。", "confidence": "high"},
+    {"source_path": "docs/开发/项目.md", "source_line": 24, "suggested_title": "具身智能技术指南 Embodied-AI-Guide", "suggested_description": "面向具身智能初学者的中文知识库与资料索引，涵盖操作实践、算法、软件基础设施、控制和硬件等主题。", "reason": "原标题过于口语化，且与 AI 分类中的同一 URL 重复。", "confidence": "high", "duplicate_of": "docs/AI/AI应用/具身智能.md:15"},
+    {"source_path": "docs/开发/开发工具.md", "source_line": 147, "suggested_title": "LaTeX AST 生成器", "suggested_description": "", "reason": "链接目标为 LaTeX-Ast-Gen 仓库，与“LaTeX Translator”标题不一致，并与上一条重复。", "confidence": "high", "duplicate_of": "docs/开发/开发工具.md:146"},
+    {"source_path": "docs/开发/开发工具.md", "source_line": 51, "suggested_title": "我的笔记组织体系分享", "suggested_description": "介绍一种适用于 Obsidian 等双链笔记工具、以链接为核心的笔记组织方法。", "reason": "页面 H1 与元描述已核验；同 URL 在第 168 行重复。", "confidence": "high"},
+    {"source_path": "docs/开发/开发工具.md", "source_line": 168, "suggested_title": "我的笔记组织体系分享", "suggested_description": "介绍一种适用于 Obsidian 等双链笔记工具、以链接为核心的笔记组织方法。", "reason": "页面 H1 与元描述已核验；与第 51 行重复。", "confidence": "high", "duplicate_of": "docs/开发/开发工具.md:51"},
+    {"source_path": "docs/开发/项目.md", "source_line": 32, "suggested_title": "", "suggested_description": "", "reason": "URL 与“UnityShader 学习笔记——透明效果”相同，但页面受访问限制，无法确认 npcypy 是否误链。", "confidence": "low", "manual_confirmation": true},
+    {"source_path": "docs/AI/大语言模型/RAG检索增强.md", "source_line": 16, "suggested_title": "", "suggested_description": "", "reason": "服务器返回 200，但页面 H1 为“呃，似乎你迷路了”，属于软失效；标题中的 RGA/RAG 关系也需人工核对。", "confidence": "low", "manual_confirmation": true},
+    {"source_path": "docs/学习成长/学习资源.md", "source_line": 98, "suggested_title": "Build your own Neural Network", "suggested_description": "", "reason": "原题名写作 Redis，但 URL 锚点实际指向 build-your-own-neural-network，按真实目标修正显示标题。", "confidence": "high"}
+  ]
+}

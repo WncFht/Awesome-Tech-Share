@@ -22,6 +22,7 @@ comments: true
 - [2025-01 Summary of January - DeepforThink's Blog](https://deepforthink.github.io/2025/01/31/25%E5%B9%B41%E6%9C%88%E6%80%BB%E7%BB%93/)
 
 ## 学期总结
+- [2025-2026年上学期总结 回到天空之前](https://yumoni.top/archives/26ending)
 - [2025-2026 总结了一下自己大二的生活，准备开始寒假的学习](https://zhuanlan.zhihu.com/p/1997701753668403777)
 - [2024-2025 暑期总结](http://yumoni.top/archives/25nian-shu-qi-zong-jie)
 - [2024-2025 大一下总结 - 织](https://alicecooo.github.io/2025/08/23/%E5%A4%A7%E4%B8%80%E4%B8%8B%E6%80%BB%E7%BB%93/)

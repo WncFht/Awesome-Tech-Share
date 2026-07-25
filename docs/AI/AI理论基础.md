@@ -14,12 +14,16 @@ comments: true
 - [Teaching Robots to Listen and Think Harder](https://www.physicalintelligence.company/research/hirobot)
 
 ## 相关资料
-
-- [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl/#/) <!-- migrated-from: docs/学习成长/学习资源.md:48; record-id: 50c2316b4ab8a560 -->
-- [paperlists](https://github.com/Papercopilot/paperlists) <!-- migrated-from: docs/开发/项目.md:31; record-id: fc0d930a9b6f7a1d | 待人工确认: accessible; record-id: fc0d930a9b6f7a1d -->
-- [DDAO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO) <!-- migrated-from: docs/开发/项目.md:33; record-id: 21bdeb578f6a3ff9 -->
-- [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](https://github.com/jakegrigsby/deep_control) <!-- migrated-from: docs/开发/项目.md:35; record-id: 69887381d1d5137e -->
-- [ReaderLM-v2](https://huggingface.co/jinaai/ReaderLM-v2) <!-- migrated-from: docs/开发/项目.md:37; record-id: e30fe894f75309a0 -->
+- [Numerical Stability](https://aiengineeringfromscratch.com/lesson.html?path=phases/01-math-foundations/13-numerical-stability)
+- [ai基础](https://www.zhihu.com/column/c_2054240231638012827)
+- [大模型部署参考](
+https://www.xiaohongshu.com/discovery/item/6a3cb5a4000000001602728d?app_platform=android&app_version=9.35.1&apptime=1782433337&author_share=1&ignoreEngage=true&shareRedId=Nzo6MUZJN0FKPUo2SkE3Sj43Tjc4PUc6&share_from_user_hidden=true&share_id=9b34fe22961349fca0745835525fe9cc&type=normal&xhsshare=WeixinSession&xsec_source=app_share&xsec_token=CBMfXqpmllcfyEUN6vFnrD2y5dELU4Xh0Zg8PXwyRrdQU=&xstag=1#pushState
+)
+- [蘑菇书EasyRL](https://datawhalechina.github.io/easy-rl/#/)
+- [paperlists](https://github.com/Papercopilot/paperlists) 
+- [DDAO: An Open-source RL System from ByteDance Seed and Tsinghua AIR](https://github.com/BytedTsinghua-SIA/DAPO) 
+- [Simple PyTorch Implementations of Deep RL Algorithms for Continuous Control Research](https://github.com/jakegrigsby/deep_control) 
+- [ReaderLM-v2](https://huggingface.co/jinaai/ReaderLM-v2) 
 
 # 深度学习（DL）
 
@@ -41,9 +45,9 @@ comments: true
 - [Birdclef中几个模型转换成 openvino格式](https://zhuanlan.zhihu.com/p/1911157667168223494) <!-- migrated-from: docs/学习成长/学习资源.md:29; record-id: 1e0f7507c28c30b4 | 待人工确认: access_restricted; record-id: 1e0f7507c28c30b4 -->
 - [一本挺好的介绍神经网络和深度学习的书](https://github.com/nndl/nndl.github.io) <!-- migrated-from: docs/学习成长/学习资源.md:43; record-id: e25e66ce39c07428 | 待人工确认: accessible; record-id: e25e66ce39c07428 -->
 - [深度学习为啥不用二阶牛顿寻优？](https://www.zhihu.com/question/1972776588379723619/answer/1994569156629132508) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:14; record-id: ce7c41fc667fef1b | 待人工确认: access_restricted; record-id: ce7c41fc667fef1b -->
-- [log_softmax与softmax的区别在哪里？ - 以往的月的回答 - 知乎](https://www.zhihu.com/question/358069078/answer/1998060735520085015) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:16; record-id: cd133a263ef47edc | 待人工确认: access_restricted; record-id: cd133a263ef47edc -->
-- [神经网络可解释性综述](https://yzhang-gh.github.io/notes/ml/nn-interpretability.html) <!-- migrated-from: docs/学习成长/技术思考/科研学习.md:32; record-id: 74414c2e8409c0de -->
-- [深度学习模型编译框架TVM概述](https://zhuanlan.zhihu.com/p/353660224?share_code=uTIfzrpKMqn9&utm_psn=1901703895547376596) <!-- migrated-from: docs/开发/项目.md:47; record-id: 25ec4e98a81c417f | 待人工确认: access_restricted; record-id: 25ec4e98a81c417f -->
+- [log_softmax与softmax的区别在哪里？ - 以往的月的回答 - 知乎](https://www.zhihu.com/question/358069078/answer/1998060735520085015) <!-- 
+- [神经网络可解释性综述](https://yzhang-gh.github.io/notes/ml/nn-interpretability.html)
+- [深度学习模型编译框架TVM概述](https://zhuanlan.zhihu.com/p/353660224?share_code=uTIfzrpKMqn9&utm_psn=1901703895547376596)
 
 # 深度强化学习（DRL）
 

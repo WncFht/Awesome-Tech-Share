@@ -12,33 +12,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Configure Git Credentials
+      - name: Configure Git identity
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v4
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v3
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install -r requirements.txt
-      - name: Install modified mkdocs-statistics-plugin
-        run: |
-          git clone https://github.com/KinnariyaMamaTanha/mkdocs-statistics-plugin
-          pip install ./mkdocs-statistics-plugin
-          rm -rf mkdocs-statistics-plugin
-      - run: pip cache purge
-      - run: mkdocs gh-deploy --force
-  #   - name: Build site
-  #     run: mkdocs build
-  #   - name: Deploy to GitHub Pages
-  #     uses: peaceiris/actions-gh-pages@v3
-  #     if: github.ref == 'refs/heads/main'
-  #     with:
-  #       github_token: ${{ secrets.GITHUB_TOKEN }}
-  #       publish_dir: ./site
+          python-version: "3.x"
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+      - name: Deploy site
+        run: mkdocs gh-deploy --force

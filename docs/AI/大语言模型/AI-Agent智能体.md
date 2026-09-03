@@ -7,6 +7,8 @@ comments: true
 ---
 
 # 教程
+
+- [AI Agents](https://www.cmu-agents.com/)
 - [Introduction to Agents](https://www.kaggle.com/whitepaper-introduction-to-agents)
 - [从 0.5 开始的 AI Agent 学习之旅](https://www.notion.so/0-5-AI-Agent-2eceda5b79ad806c8e88e313b5cae2e7)
 - [Camel的Multi-Agent中文教程文档](https://fmhw1n4zpn.feishu.cn/docx/AF4XdOZpIo6TOaxzDK8cxInNnCe)

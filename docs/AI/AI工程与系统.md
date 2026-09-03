@@ -4,6 +4,7 @@ comments: false
 
 # AI 工程与系统
 
+- [AI Infra Guide](https://caomaolufei.github.io/AIInfraGuide/)
 - [从 GPU 硬件机制看 GEMM 性能调优](https://zhuanlan.zhihu.com/p/1993015210924057685?share_code=zOBjsXrnjhzE&utm_psn=1994460151395157482) <!-- migrated-from: docs/学习成长/学习资源.md:18; record-id: 829e969dfbc3a2f8 | 待人工确认: access_restricted; record-id: 829e969dfbc3a2f8 -->
 - [2026 企业级AI编程实践手册](https://lcnziv86vkx6.feishu.cn/wiki/XZOSwI51wi5a5okxCF4cAxHSnBh) <!-- migrated-from: docs/学习成长/学习资源.md:31; record-id: ba83d08741907220 | 待人工确认: accessible; record-id: ba83d08741907220 -->
 - [AI 原生工程](https://tatsukimeng.github.io/ai-native-engineering/docs/outline/detailed-outline) <!-- migrated-from: docs/学习成长/学习资源.md:32; record-id: 1f763ba67dd888c8 | 待人工确认: accessible; record-id: 1f763ba67dd888c8 -->

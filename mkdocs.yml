@@ -4,6 +4,7 @@ site_description: 收集整理各种计算机科学相关的知识，包括但�
 site_author: wnc
 repo_name: Awesome-Tech-Share
 repo_url: https://github.com/WncFht/Awesome-Tech-Share/
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -119,7 +120,7 @@ markdown_extensions:
 extra:
   social:
     - icon: /fontawesome/brands/qq
-      link: assets/images/qq.jpg
+      link: https://WncFht.github.io/Awesome-Tech-Share/assets/images/qq.jpg
       name: QQ
 
 extra_css:
@@ -132,7 +133,6 @@ extra_css:
 
 extra_javascript:
   - js/mathjax.js
-  - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
@@ -142,15 +142,11 @@ plugins:
       width: 80%
   - statistics:
       words_per_minute: 200
+      page_template: ../overrides/partials/page_statistics.html
   # - include_dir_to_nav:
   #     sort_file: true
   #     sort_directory: true
-  - blogging:
-      locale: en
-      features:
-        tags:
-          index_page: tags/
-          insert: top
+  - tags
   - minify:
       minify_html: true
       minify_js: true

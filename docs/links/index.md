@@ -101,34 +101,34 @@ icon: /octicons/link-24
     </a>
 </div>
 
-<div class="flink-list-item">
-    <a href="" title="zhengzheng" target="_blank">
+<div class="flink-list-item flink-list-item--static">
+    <div title="zhengzheng">
         <div class="flink-item-icon">
             <img src="../assets/images/zhengzheng.jpg" alt="zhengzheng">
         </div>
         <div class="flink-item-name heti-skip">zhengzheng</div>
         <div class="flink-item-desc"></div>
-    </a>
+    </div>
 </div>
 
-<div class="flink-list-item">
-    <a href="" title="fanfou" target="_blank">
+<div class="flink-list-item flink-list-item--static">
+    <div title="fanfou">
         <div class="flink-item-icon">
             <img src="../assets/images/fanfou.jpg" alt="fanfou">
         </div>
         <div class="flink-item-name heti-skip">饭否</div>
         <div class="flink-item-desc"></div>
-    </a>
+    </div>
 </div>
 
-<div class="flink-list-item">
-    <a href="" title="游行寺夜子厨" target="_blank">
+<div class="flink-list-item flink-list-item--static">
+    <div title="游行寺夜子厨">
         <div class="flink-item-icon">
             <img src="../assets/images/yxsyzc.jpg" alt="游行寺夜子厨">
         </div>
         <div class="flink-item-name heti-skip">游行寺夜子厨</div>
         <div class="flink-item-desc"></div>
-    </a>
+    </div>
 </div>
 
 <div class="flink-list-item">
@@ -184,7 +184,7 @@ icon: /octicons/link-24
 <div class="flink-list-item">
     <a href="https://hugo0713.com" title="Hugo's Cyber Heritage" target="_blank">
         <div class="flink-item-icon">
-            <img src="../assets/images/hugo.png" alt="Tendourisu">
+            <img src="../assets/images/hugo.png" alt="Hugo's Cyber Heritage">
         </div>
         <div class="flink-item-name">Hugo's Cyber Heritage</div>
         <div class="flink-item-desc"></div>

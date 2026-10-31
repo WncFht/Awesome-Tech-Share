@@ -271,3 +271,21 @@ img:hover {
   text-align: center;
   /* 可选：表头文字居中 */
 }
+
+.statistics-toggle {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--md-typeset-a-color);
+  font: inherit;
+  cursor: pointer;
+}
+
+.statistics-toggle:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+#statistics[hidden] {
+  display: none;
+}

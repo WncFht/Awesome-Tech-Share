@@ -5,7 +5,6 @@ hide:
     - toc
 home: true
 nostatistics: true
-comments: false
 icon: material/home
 ---
 
@@ -20,14 +19,12 @@ Welcome to Awesome Tech Share! 🎉
 </h1>
 
 <span style="display: block; text-align: center; font-size: 18px;">
-[:octicons-link-16: Contributors](./links/index.md) / [:octicons-info-16: About Us](https://zhuanlan.zhihu.com/p/12775079036) / [:material-chart-line: Statistics] 
+[:octicons-link-16: Contributors](./links/index.md) / [:octicons-info-16: About Us](https://zhuanlan.zhihu.com/p/12775079036) / <button type="button" id="statistics-toggle" class="statistics-toggle" aria-expanded="false" aria-controls="statistics">:material-chart-line: Statistics</button>
 </span>
 
-<div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; opacity: 0; margin-left: auto; margin-right: 0; font-size: 110%">
+<div id="statistics" markdown="1" class="card" style="width: min(27em, 100%); border-color: transparent; margin-left: auto; margin-right: auto; font-size: 110%" hidden>
 <div style="padding-left: 1em;" markdown="1">
 <li>Website Operating Time: <span id="web-time"></span></li>
-<li>Total Visitors: <span id="busuanzi_value_site_uv"></span> people</li>
-<li>Total Visits: <span id="busuanzi_value_site_pv"></span> times</li>
 </div>
 </div>
 
@@ -54,10 +51,9 @@ function updateTime() {
 updateTime();
 function toggle_statistics() {
     var statistics = document.getElementById("statistics");
-    if (statistics.style.opacity == 0) {
-        statistics.style.opacity = 1;
-    } else {
-        statistics.style.opacity = 0;
-    }
+    var toggle = document.getElementById("statistics-toggle");
+    statistics.hidden = !statistics.hidden;
+    toggle.setAttribute("aria-expanded", String(!statistics.hidden));
 }
+document.getElementById("statistics-toggle").addEventListener("click", toggle_statistics);
 </script>

@@ -4,18 +4,21 @@ tags:
   - RAG
   - LLM
 nostatistics: false
-comments: true
 ---
 
 # RAG
-- [高级 RAG 技术学习笔记 - aneasystone's blog](https://www.aneasystone.com/archives/2024/06/advanced-rag-notes.html)
-- [RAG入门学习笔记](https://zhuanlan.zhihu.com/p/1920883487814194041)
+- [高级 RAG 技术学习笔记 — aneasystone's blog](https://www.aneasystone.com/archives/2024/06/advanced-rag-notes.html)
+- [RAG 入门学习笔记](https://zhuanlan.zhihu.com/p/1920883487814194041)
 - [详解 CacheBlend：RAG 场景 KV 复用，打破前缀相同的限制](https://zhuanlan.zhihu.com/p/7781800255)
-- [从零开始的RAG](https://www.bilibili.com/video/BV1dm41127jc/?spm_id_from=333.1387.collection.video_card.click&vd_source=8eeed36c8368d0ab0bb576c12209518e)
-- [2024rag 综述论文](https://mp.weixin.qq.com/s?__biz=MzI2OTE2NTQzMw==&mid=2650792737&idx=1&sn=fd3c0de5b5ce13ca2b21fd59ec5ee752&chksm=f3aff383741f997abaffec541f4481196a62425c18ead563c7a4c6a70a5fde3ccdb714047e7a&mpshare=1&scene=1&srcid=0205ujYKEpzgvMjjNlq2wlHl&sharer_shareinfo=d5ddb8d426c9fff3081d8409bc53b089&sharer_shareinfo_first=1c277e8f2ee3c635b89fca4561d3489b)
-- [上下文感知的聚合页广告优化实践 - 美团RGA应用](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)
+- [RAG 从零入门](https://www.bilibili.com/video/BV1dm41127jc/?spm_id_from=333.1387.collection.video_card.click&vd_source=8eeed36c8368d0ab0bb576c12209518e)
+- [RAG 综述论文（2024）](https://mp.weixin.qq.com/s?__biz=MzI2OTE2NTQzMw==&mid=2650792737&idx=1&sn=fd3c0de5b5ce13ca2b21fd59ec5ee752&chksm=f3aff383741f997abaffec541f4481196a62425c18ead563c7a4c6a70a5fde3ccdb714047e7a&mpshare=1&scene=1&srcid=0205ujYKEpzgvMjjNlq2wlHl&sharer_shareinfo=d5ddb8d426c9fff3081d8409bc53b089&sharer_shareinfo_first=1c277e8f2ee3c635b89fca4561d3489b)
+- [上下文感知的聚合页广告优化实践 — 美团](https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html)
 - [RAG + 文档解析调研](https://zhuanlan.zhihu.com/p/1910305219025301842)
 
 ## 相关资料
 
-- [在大模型应用中，如何提升RAG（检索增强生成）的能力？](https://www.zhihu.com/question/643138720/answer/1926426114420638922) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:34; record-id: 3897047e6cced53b | 待人工确认: access_restricted; record-id: 3897047e6cced53b -->
+- [在大模型应用中，如何提升 RAG（检索增强生成）的能力？](https://www.zhihu.com/question/643138720/answer/1926426114420638922) <!-- migrated-from: docs/学习成长/技术思考/技术观点.md:34; record-id: 3897047e6cced53b | 待人工确认: access_restricted; record-id: 3897047e6cced53b -->
+
+## 本地知识库与工具
+
+- [KnowNote](https://github.com/mrsibe/KnowNote) — 本地优先的桌面研究与知识库工具，支持文档解析、嵌入与检索，以及带原文定位的问答和笔记；可接入自选模型服务。
